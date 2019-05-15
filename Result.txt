@@ -1,0 +1,3 @@
+If we compare the graph in the R, we would find that actually this graph looks pretty similiar. It seems like that they are symmetric. And we look back at the outputs. I found that when calculating f(44), the number of calling i(time[i]) is equal to the 45-i th fibonacci number. 
+So if we are calculating the n th fibonacci number, the number of calling i is equal to n+1-i th fibonacci number.
+
